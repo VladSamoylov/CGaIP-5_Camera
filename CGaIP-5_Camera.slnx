@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGaIP-5_Camera/CGaIP-5_Camera.vcxproj" />
+</Solution>
