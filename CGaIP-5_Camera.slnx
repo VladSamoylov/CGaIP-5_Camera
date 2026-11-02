@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CGaIP-5_Camera/CGaIP-5_Camera.vcxproj" />
+  <Project Path="CGaIP-5_Camera/CGaIP-5_Camera.vcxproj" Id="fcf9e041-7203-4b63-a203-d3eaa2a7593a" />
 </Solution>
